@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="192.168.110.112" id="98a72152-ca11-478d-8cc5-a1290404323a" port="22" customName="moss" nameFormat="CUSTOM" username="moss" useOpenSSHConfig="true">
+        <option name="customName" value="moss" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
